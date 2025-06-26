@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://readme-landing-page.vercel.app/api/banner?title=Devanathan%20Harikrishnan&subtitle=Senior%20Engineer%20%7C%20Telephony%20Specialist%20%7C%20Automation%20Wizard&animation=wave&fontSize=35&fontColor=white&bgColor=0D1117&center=true" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&duration=3000&pause=1000&color=F7F7F7&center=false&vCenter=true&width=800&lines=Hi+I'm+Devanathan+Harikrishnan;Senior+Engineer+%7C+VoIP+Specialist;Automating+my+life+with+AI+scripts;SIP+flows+and+packet+captures+are+art." />
 </p>
 
 <p align="center">
   <a href="https://d3va.pages.dev" target="_blank">🌐 Visit My Portfolio</a> •
-  <a href="mailto:your.email@example.com">📫 Email</a> •
-  <a href="#">📄 Resume</a>
+  <a href="devanathan4444@gmail.com">📫 Email</a> •
+  <a href="https://drive.google.com/file/d/1PQwAzmEN8kwfN5AI33zxzELxKzKC-VVx/view?usp=drivesdk">📄 Resume</a>
 </p>
 
 ---
@@ -108,12 +108,12 @@ _Apr 2021 – Aug 2023_
 
 ---
 
-<p align="center">
+<!---<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+my+tech+universe.;I+build+scripts+that+simplify+life.;AI+is+my+co-pilot.;Let's+connect+the+world+via+VoIP!;Glowing+through+dark+and+light+mode+🌗" />
 </p>
 
 ---
-
+-->
 > ✨ *"I don’t search for tools — I build them."*  
 > 🔍 *"Packet captures are poetry."*
 <!--
