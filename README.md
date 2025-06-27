@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&duration=3000&pause=1000&color=F7F7F7&center=false&vCenter=true&width=800&lines=Hi+I'm+Devanathan+Harikrishnan;Senior+Engineer+%7C+VoIP+Specialist;Automating+my+life+with+AI+scripts;SIP+flows+and+packet+captures+are+art." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&duration=3000&pause=1000&color=F7F7F7&center=false&vCenter=true&width=900&lines=Hi+I'm+Devanathan+Harikrishnan;Senior+Engineer+%7C+VoIP+Specialist;Automating+my+life+with+AI+scripts;SIP+flows+and+packet+captures+are+art." />
 </p>
 
 <p align="center">
   <a href="https://d3va.pages.dev" target="_blank">🌐 Visit My Portfolio</a> •
-  <a href="devanathan4444@gmail.com">📫 Email</a> •
+  <a href="mailto:devanathan4444@gmail.com">📫 Email</a> •
   <a href="https://drive.google.com/file/d/1PQwAzmEN8kwfN5AI33zxzELxKzKC-VVx/view?usp=drivesdk">📄 Resume</a>
 </p>
 
