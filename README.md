@@ -10,18 +10,18 @@
 
 ---
 
-<details>
+
 <summary>🧠 <strong>About Me</strong></summary>
 
 🌟 I'm Deva, a curious mind fascinated by **VoIP networks**, **telephony systems**, and the magic of **automation with AI**.  
 🔧 Whether I'm scripting tools to make life easier or configuring SIP trunks at midnight, I'm all about **efficiency**, **clarity**, and **precision**.  
 💡 Currently working on merging **AI assistants** with **telephony platforms** for next-gen productivity.
 
-</details>
+
 
 ---
 
-<details>
+
 <summary>🛠️ <strong>Tech Stack</strong></summary>
 
 <p align="center">
@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/Databases-PostgreSQL,MySQL-orange?style=for-the-badge&logo=database&logoColor=white"/>
 </p>
 
-</details>
+
 
 ---
 <!---
@@ -83,7 +83,7 @@ _Apr 2021 – Aug 2023_
 
 ---
 -->
-<details>
+
 <summary>🌈 <strong>Fun Stuff I Love</strong></summary>
 
 - 🤖 Building custom **AI-powered scripts** to automate boring things  
@@ -91,11 +91,11 @@ _Apr 2021 – Aug 2023_
 - 🧪 Tinkering with **Asterisk dial plans** and voice bots  
 - 🧰 Making self-hosted dashboards & tools using Python + Streamlit  
 
-</details>
+
 
 ---
 
-<details>
+
 <summary>📊 <strong>GitHub Stats</strong></summary>
 
 <p align="center">
@@ -104,7 +104,7 @@ _Apr 2021 – Aug 2023_
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deva-hari&theme=tokyonight" />
 </p>
 
-</details>
+
 
 ---
 
