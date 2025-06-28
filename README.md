@@ -35,7 +35,7 @@
 </details>
 
 ---
-
+<!---
 <details>
 <summary>💼 <strong>Professional Timeline</strong></summary>
 
@@ -82,7 +82,7 @@ _Apr 2021 – Aug 2023_
 </details>
 
 ---
-
+-->
 <details>
 <summary>🌈 <strong>Fun Stuff I Love</strong></summary>
 
