@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://d3va.pages.dev" target="_blank">🌐 Visit My Portfolio</a> •
   <a href="mailto:devanathan4444@gmail.com">📫 Email</a> •
-  <a href="https://drive.google.com/file/d/1PQwAzmEN8kwfN5AI33zxzELxKzKC-VVx/view?usp=drivesdk">📄 Resume</a>
+  <a href="https://drive.google.com/file/d/1PQwAzmEN8kwfN5AI33zxzELxKzKC-VVx/view?usp=drivesdk" target="_blank">📄 Resume</a>
 </p>
 
 ---
