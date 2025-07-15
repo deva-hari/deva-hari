@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=900&lines=Hey,+I'm+Devanathan+Harikrishnan.;Senior+Engineer+⚙️+VoIP+Specialist+📞;Automating+my+life+with+AI+🧠;SIP+Flows+%2B+Packet+Captures+=+Art+🎨" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=900&lines=Hey,+I'm+Devanathan+Harikrishnan.;Senior+Engineer+⚙️+VoIP+Specialist+📞;Automating+my+life+with+AI+🧠;SIP+Flows+%2B+Packet+Captures+=+Art+🎨" alt="Devanathan Harikrishnan"/>
 </p>
 
 <p align="center">
-  <a href="https://d3va.pages.dev" target="_blank"><img src="https://img.shields.io/badge/🌐%20Portfolio-d3va.pages.dev-blueviolet?style=for-the-badge"></a>
+  <a href="https://portfolio.deva-hari.com" target="_blank"><img src="https://img.shields.io/badge/🌐%20Portfolio-Deva%20Hari-blueviolet?style=for-the-badge"></a>
   <a href="mailto:devanathan4444@gmail.com"><img src="https://img.shields.io/badge/📫%20Email-me-red?style=for-the-badge"></a>
   <a href="https://drive.google.com/file/d/1PQwAzmEN8kwfN5AI33zxzELxKzKC-VVx/view?usp=drivesdk" target="_blank"><img src="https://img.shields.io/badge/📄%20Resume-View-green?style=for-the-badge"></a>
 </p>
